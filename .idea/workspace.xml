@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a15b0d3-e1e4-4b88-9f8d-85d338f0fbcc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2jxKT6KtBwH2xuR1PZx42t4H0ZQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;D:/Github Projects/MobileAppTesting/src/test/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/DQG/DQG_WEB&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Github Projects\MobileAppTesting" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Github Projects\MobileAppTesting\src\test\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Baseclass" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="PomPages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.D:/Github Projects/MobileAppTesting/Testng.xml">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Apidemos" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MobileAppTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AppiumTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="AppiumTest" />
+      <option name="MAIN_CLASS_NAME" value="AppiumTest.Apidemos" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MobileAppTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AppiumTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="AppiumTest" />
+      <option name="MAIN_CLASS_NAME" value="AppiumTest.AppTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.TestAPp" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MobileAppTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AppiumTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="AppiumTest" />
+      <option name="MAIN_CLASS_NAME" value="AppiumTest.AppTest" />
+      <option name="METHOD_NAME" value="TestAPp" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaseTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MobileAppTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Baseclass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Baseclass" />
+      <option name="MAIN_CLASS_NAME" value="Baseclass.BaseTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/Github Projects/MobileAppTesting/Testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MobileAppTesting" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.D:/Github Projects/MobileAppTesting/Testng.xml" />
+        <item itemvalue="TestNG.AppTest.TestAPp" />
+        <item itemvalue="TestNG.AppTest" />
+        <item itemvalue="TestNG.BaseTest" />
+        <item itemvalue="TestNG.Apidemos" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a15b0d3-e1e4-4b88-9f8d-85d338f0fbcc" name="Changes" comment="" />
+      <created>1722323293591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722323293591</updated>
+    </task>
+    <servers />
+  </component>
+</project>
